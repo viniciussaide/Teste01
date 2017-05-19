@@ -1,0 +1,7 @@
+C:\Users\vinicius.saide\documents\visual studio 2017\Projects\Teste01\Teste01\bin\Debug\Teste01.exe.config
+C:\Users\vinicius.saide\documents\visual studio 2017\Projects\Teste01\Teste01\bin\Debug\Teste01.exe
+C:\Users\vinicius.saide\documents\visual studio 2017\Projects\Teste01\Teste01\bin\Debug\Teste01.pdb
+C:\Users\vinicius.saide\documents\visual studio 2017\Projects\Teste01\Teste01\bin\Debug\MySql.Data.dll
+C:\Users\vinicius.saide\documents\visual studio 2017\Projects\Teste01\Teste01\obj\Debug\Teste01.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.saide\documents\visual studio 2017\Projects\Teste01\Teste01\obj\Debug\Teste01.exe
+C:\Users\vinicius.saide\documents\visual studio 2017\Projects\Teste01\Teste01\obj\Debug\Teste01.pdb
